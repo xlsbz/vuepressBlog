@@ -13,4 +13,7 @@
   "devDependencies": {
     "vuepress": "^1.5.4"
   }
+},
+"scripts": {
+  "deploy": "bash deploy.sh"
 }
